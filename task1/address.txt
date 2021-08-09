@@ -1,0 +1,4 @@
+address:
+  mainnet: ckb1qyq9syp45nw4avmkun8qmhgm4m9enl9uj7lsale99q
+  testnet: ckt1qyq9syp45nw4avmkun8qmhgm4m9enl9uj7lsq686fu
+
